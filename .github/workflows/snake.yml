@@ -31,6 +31,9 @@ jobs:
             dist/matrix-snake-dark.svg?color_snake=#00FF41&color_dots=#0D0208,#003B00,#008F11,#00C832,#00FF41
             dist/matrix-snake.svg?color_snake=#008F11&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
 
+      - name: fix dist permissions (snk writes as root)
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
