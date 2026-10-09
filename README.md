@@ -56,7 +56,6 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
 ### `> TELEMETRY`
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/cordi-athas/cordi-athas/output/stats.svg" alt="stats" />
   <img height="165" src="https://raw.githubusercontent.com/cordi-athas/cordi-athas/output/top-langs.svg" alt="languages" />
 </p>
 

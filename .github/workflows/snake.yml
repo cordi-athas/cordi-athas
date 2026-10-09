@@ -34,14 +34,6 @@ jobs:
       - name: fix dist permissions (snk writes as root)
         run: sudo chown -R "$(id -u):$(id -g)" dist
 
-      - name: generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D0208&title_color=00FF41&text_color=7CFF9B&icon_color=00FF41&ring_color=00FF41&custom_title=%3E%20operator.stats
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
