@@ -22,9 +22,11 @@ cordi-athas@nebuchadnezzar:~$ whoami
 > indie game developer · web3 builder · content creator
 
 cordi-athas@nebuchadnezzar:~$ cat ./current_mission.txt
-> [■■■■■■■■□□] mobile games   → bananagun.games
-> [■■■■■■□□□□] solana / defi  → launchpads & token mechanics
-> [■■■■□□□□□□] short-form     → motion & storytelling
+> [■■■■■■■■■■] mobile games   → bananagun.games
+> [■■■■■■■■■■] web3           → on-chain products & dapps
+> [■■■■■■■■■■] solana / defi  → launchpads & token mechanics
+> [■■■■■■■■■■] evm            → solidity contracts & dex design
+> [■■■■■■■■■■] short-form     → motion & storytelling
 
 cordi-athas@nebuchadnezzar:~$ ./take --pill red
 > loading construct...
@@ -40,6 +42,8 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
   <img src="https://img.shields.io/badge/React-0D0208?style=for-the-badge&logo=react&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Node.js-0D0208?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Solana-0D0208?style=for-the-badge&logo=solana&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Ethereum%20%2F%20EVM-0D0208?style=for-the-badge&logo=ethereum&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Solidity-0D0208?style=for-the-badge&logo=solidity&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Rust-0D0208?style=for-the-badge&logo=rust&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Flutter-0D0208?style=for-the-badge&logo=flutter&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/WebAssembly-0D0208?style=for-the-badge&logo=webassembly&logoColor=00FF41" />
