@@ -56,8 +56,8 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
 ### `> TELEMETRY`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cordi-athas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0208&title_color=00FF41&text_color=7CFF9B&icon_color=00FF41&ring_color=00FF41&custom_title=%3E%20operator.stats" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordi-athas&layout=compact&hide_border=true&langs_count=8&bg_color=0D0208&title_color=00FF41&text_color=7CFF9B&custom_title=%3E%20languages.loaded" alt="languages" />
+  <img height="165" src="https://raw.githubusercontent.com/cordi-athas/cordi-athas/output/stats.svg" alt="stats" />
+  <img height="165" src="https://raw.githubusercontent.com/cordi-athas/cordi-athas/output/top-langs.svg" alt="languages" />
 </p>
 
 <p align="center">
