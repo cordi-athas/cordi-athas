@@ -13,8 +13,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
+      - uses: actions/checkout@v5
+
+      - name: generate 3d contribution grid
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: generate matrix snake
         uses: Platane/snk@v3
         with:
@@ -22,6 +30,11 @@ jobs:
           outputs: |
             dist/matrix-snake-dark.svg?color_snake=#00FF41&color_dots=#0D0208,#003B00,#008F11,#00C832,#00FF41
             dist/matrix-snake.svg?color_snake=#008F11&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
+
+      - name: collect outputs
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp profile-3d-contrib/*.svg dist/profile-3d-contrib/
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -22,7 +22,7 @@ cordi-athas@nebuchadnezzar:~$ whoami
 > indie game developer · web3 builder · content creator
 
 cordi-athas@nebuchadnezzar:~$ cat ./current_mission.txt
-> [■■■■■■■■□□] mobile games   → bananagun.fun
+> [■■■■■■■■□□] mobile games   → bananagun.games
 > [■■■■■■□□□□] solana / defi  → launchpads & token mechanics
 > [■■■■□□□□□□] short-form     → motion & storytelling
 
@@ -49,7 +49,7 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
 
 | node | signal |
 |---|---|
-| 🎮 **[bananagun.fun](https://bananagun.fun)** | mobile game studio, hybrid-casual & puzzle games |
+| 🎮 **[bananagun.games](https://bananagun.games)** | mobile game studio, hybrid-casual & puzzle games |
 | 📄 **[embeddocxeditor](https://github.com/cordi-athas/embeddocxeditor)** | offline-first DOCX editor in the browser on LibreOffice WASM |
 | ⛓️ **solana launchpads** | experimental token mechanics, in the lab |
 
@@ -65,7 +65,7 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cordi-athas&bg_color=0D0208&color=7CFF9B&line=00FF41&point=D7FFD9&area=true&area_color=008F11&hide_border=true&custom_title=%3E%20signal.trace" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/cordi-athas/cordi-athas/output/profile-3d-contrib/profile-night-green.svg" alt="3d contribution grid" />
 </p>
 
 ### `> AGENT.HUNT`
@@ -81,7 +81,7 @@ cordi-athas@nebuchadnezzar:~$ ./take --pill red
 ---
 
 <p align="center">
-  <a href="https://bananagun.fun"><img src="https://img.shields.io/badge/bananagun.fun-0D0208?style=for-the-badge&logo=googlechrome&logoColor=00FF41" /></a>
+  <a href="https://bananagun.games"><img src="https://img.shields.io/badge/bananagun.games-0D0208?style=for-the-badge&logo=googlechrome&logoColor=00FF41" /></a>
   <!-- X / Twitter: kullanıcı adını ekle ve yorumu kaldır -->
   <!-- <a href="https://x.com/KULLANICI_ADI"><img src="https://img.shields.io/badge/X-0D0208?style=for-the-badge&logo=x&logoColor=00FF41" /></a> -->
 </p>
