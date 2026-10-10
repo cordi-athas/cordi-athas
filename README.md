@@ -22,11 +22,11 @@ cordi-athas@nebuchadnezzar:~$ whoami
 > indie game developer · web3 builder · content creator
 
 cordi-athas@nebuchadnezzar:~$ cat ./current_mission.txt
-> [■■■■■■■■■■] mobile games   → bananagun.games
-> [■■■■■■■■■■] web3           → on-chain products & dapps
-> [■■■■■■■■■■] solana / defi  → launchpads & token mechanics
-> [■■■■■■■■■■] evm            → solidity contracts & dex design
-> [■■■■■■■■■■] short-form     → motion & storytelling
+> [■■■■■■■■■■] game development → bananagun.games
+> [■■■■■■■■■■] web3             → on-chain products & dapps
+> [■■■■■■■■■■] solana / defi    → launchpads & token mechanics
+> [■■■■■■■■■■] evm              → solidity contracts & dex design
+> [■■■■■■■■■■] short-form       → motion & storytelling
 
 cordi-athas@nebuchadnezzar:~$ ./take --pill red
 > loading construct...
